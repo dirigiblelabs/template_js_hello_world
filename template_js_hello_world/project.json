@@ -1,1 +1,8 @@
-{"guid":"template_js_hello_world","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_js_hello_world.git"}}
+{
+    "guid": "template_js_hello_world",
+    "repository": {
+        "type": "git",
+        "branch": "master",
+        "url": "https://github.com/dirigiblelabs/template_js_hello_world.git"
+    }
+}
